@@ -1,0 +1,4 @@
+Environment variables loaded from .env
+Prisma schema loaded from prisma\schema.prisma
+Datasource "db": MongoDB database at "cluster0.ioirbmw.mongodb.net"
+
